@@ -1,4 +1,3 @@
-// /utils/dateFormat.js
 const addZero = (num) => (num < 10 ? `0${num}` : num);
 
 module.exports = (timestamp) => {

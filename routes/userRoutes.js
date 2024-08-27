@@ -1,4 +1,3 @@
-// /routes/userRoutes.js
 const router = require('express').Router();
 const {
   getUsers,
